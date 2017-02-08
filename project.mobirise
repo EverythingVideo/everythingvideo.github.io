@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CONTACT US",
+    "currentPage": "HOME",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -132,7 +132,7 @@
           "_name": "header2",
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "55",
+            "imageSize": "64",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
@@ -185,7 +185,7 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=YQSzqxnBtNE",
+              "src": "https://www.youtube.com/watch?v=ogKIYrPv-Ro",
               "autoplay": false,
               "loop": false,
               "active": true
@@ -194,7 +194,7 @@
           "_params": {
             "showText": true
           },
-          "text": "GO DOWN TO SEE MORE VIDEOS"
+          "text": "GO DOWN TO VIEW MORE VIDEOS"
         },
         {
           "_name": "footer1",
@@ -225,7 +225,7 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=ogKIYrPv-Ro",
+              "src": "https://www.youtube.com/watch?v=68WONlfcUWw",
               "autoplay": false,
               "loop": false,
               "active": true
@@ -234,7 +234,53 @@
           "_params": {
             "showText": true
           },
-          "text": "GO DOWN TO SEE MORE VIDEOS"
+          "text": "GO DOWN TO VIEW MORE VIDEOS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-c",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=ys0vsEU4-9M",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "GO DOWN TO VIEW MORE VIDEOS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-d",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=yJtIilvjgZE",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "GO DOWN TO VIEW MORE VIDEOS"
         }
       ]
     },
@@ -356,6 +402,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-b",
           "_params": {
             "labelsColor": "#232323",
@@ -401,12 +452,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     }
