@@ -186,7 +186,7 @@
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=ogKIYrPv-Ro",
-              "aspectratio": "16:9",
+              "aspectratio": "4:3",
               "autoplay": false,
               "loop": false,
               "active": true
