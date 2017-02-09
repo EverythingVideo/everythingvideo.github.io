@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "public_html",
+    "currentPage": "HOME",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -199,7 +199,7 @@
         }
       ]
     },
-    "public_html": {
+    "HOME": {
       "settings": {
         "main": true,
         "title": "Everything Video",
