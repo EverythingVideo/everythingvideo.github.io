@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Click Here To Go Back Up<br></b><br>EVERYTHING VIDEO"
+          "text": "<b><a href=\"HOME#header2-0\">Click Here To Go Back Up</a><br></b><br>EVERYTHING VIDEO"
         },
         {
           "_tags": [
@@ -444,7 +444,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Click Here To Go Back Up<br></b><br>EVERYTHING VIDEO"
+          "text": "<b><a href=\"HOME#header2-0\">Click Here To Go Back Up</a><br></b><br>EVERYTHING VIDEO"
         },
         {
           "_tags": [
