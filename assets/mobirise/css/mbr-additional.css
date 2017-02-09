@@ -478,6 +478,12 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#form2-g .mbr-section-title {
+  color: #fff;
+}
+#form2-g .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
