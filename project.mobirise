@@ -170,7 +170,7 @@
             }
           },
           "title": "Everything Video",
-          "text": "WATCH OUR LATEST &nbsp;YOUTUBE VIDEOS HERE<br><b>Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube</b><br>",
+          "text": "WATCH OUR LATEST &nbsp;YOUTUBE VIDEOS HERE<br><b><a href=\"HOME#form2-g\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube</a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO&nbsp;</a> ",
           "_styles": {
             ".mbr-section-text": {
