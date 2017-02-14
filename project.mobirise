@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HOME",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -199,7 +199,7 @@
         }
       ]
     },
-    "HOME": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Everything Video",
@@ -304,6 +304,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": "64",
@@ -345,12 +350,7 @@
           },
           "title": "Everything Video",
           "text": "<p>WATCH OUR LATEST YOUTUBE VIDEOS HERE<br><a href=\"HOME#form2-g\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site</a><a href=\"HOME#form2-g\"></a><b><a href=\"HOME#form2-g\"></a></b><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO&nbsp;</a> ",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO&nbsp;</a> "
         },
         {
           "_tags": [
@@ -371,26 +371,9 @@
             }
           },
           "_params": {
-            "showText": true
+            "showText": false
           },
           "text": "GO DOWN TO VIEW MORE VIDEOS"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<b><a href=\"HOME#header2-0\">Click Here To Go Back Up</a><br></b><br>EVERYTHING VIDEO"
         },
         {
           "_tags": [
@@ -411,7 +394,7 @@
             }
           },
           "_params": {
-            "showText": true
+            "showText": false
           },
           "text": "GO DOWN TO VIEW MORE VIDEOS"
         },
@@ -504,6 +487,26 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b><a href=\"HOME#header2-0\">Click Here To Go Back Up</a><br></b><br>EVERYTHING VIDEO"
         }
       ]
     }
