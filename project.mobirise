@@ -315,7 +315,7 @@
           },
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "64",
+            "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
