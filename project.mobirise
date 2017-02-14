@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Dramafever Free Trials",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -460,7 +460,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=ff4z6CG2Vpk",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-04-58.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-07-32.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "How To Get Round Folders In iOS 8,9, And 10 Beta (NO JAILBREAK)<br>",
@@ -584,6 +584,126 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "How To Mange Your YouTube Subscriptions (4K HD) <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=KGXNlXr-nlA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-17-53.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Block Ads on Google Chrome <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=SVnbHwkFdG8&t=6s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-22-38.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Block Ads on Google Chrome <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=X3vPE4T2Kmw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-33-31.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Watch Any Movie And TV Show For Free&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=8d6xC3uUCxY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-37-30.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Turn On Vacation Responder In Gmail&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Lq05VnZd8Tk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-41-14.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Record Your Laptop Screen <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uTACyek6KA0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-41-50.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Remove Or Convert A Android App To A System App<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=wcjbhVNMRDc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-48-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Watch Any Movie And TV Show For Free On Your Android [NO ROOT]&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uVuVdEse4Yo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-49-33.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Hack Someone's Wifi Password [ROOT ONLY]&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=0mlSoqDafsY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-51-35.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get Unlimited Coins In Injustice <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=mAaNe0vugi4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-15-54-03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Download A Video To Your Laptop <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=n4OA_Zj1XrA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-16-02-22.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Download Movie Box From AppStore [NO JAILBREAK &amp; NO COMPUTER]&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=HJIeonpS2V4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-14-16-04-42.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Download A Screen Recorder To A ios [NO JAILBREAK &amp; NO COMPUTER]&nbsp;<br>",
                 "active": true
               }
             ],
@@ -597,7 +717,12 @@
           },
           "_anchor": "gallery1-j",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {

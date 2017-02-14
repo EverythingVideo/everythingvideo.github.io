@@ -551,6 +551,9 @@ h6,
 #header2-0 .mbr-section-text {
   color: #ffffff;
 }
+#gallery1-j .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #form2-g .mbr-section-title {
   color: #fff;
 }
