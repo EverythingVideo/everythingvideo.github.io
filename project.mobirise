@@ -349,100 +349,8 @@
             }
           },
           "title": "Everything Video",
-          "text": "<p>WATCH OUR LATEST YOUTUBE VIDEOS HERE<br><a href=\"HOME#form2-g\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site</a><a href=\"HOME#form2-g\"></a><b><a href=\"HOME#form2-g\"></a></b><br></p>",
+          "text": "<p><a href=\"index.html#gallery1-j\"><b>WATCH OUR LATEST YOUTUBE VIDEOS HERE</b></a><br><a href=\"HOME#form2-g\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site</a><a href=\"HOME#form2-g\"></a><b><a href=\"HOME#form2-g\"></a></b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO&nbsp;</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-6",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=ogKIYrPv-Ro",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": "GO DOWN TO VIEW MORE VIDEOS"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-7",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=68WONlfcUWw",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": "GO DOWN TO VIEW MORE VIDEOS"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=ys0vsEU4-9M",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "GO DOWN TO VIEW MORE VIDEOS"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-d",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=yJtIilvjgZE",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "GO DOWN TO VIEW MORE VIDEOS"
         },
         {
           "_tags": [
@@ -471,61 +379,207 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "How To Watch Movies And TV Shows For Free With A Software<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ys0vsEU4-9M",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-22-56-01.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "caption": "How To View Saved Wifi Passwords On Windows 8 And 10<br>",
+                "active": false
               },
               {
                 "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=yJtIilvjgZE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-22-57-36.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "caption": "How To Get Paid Apps And Games For Free (NO COMPUTER &amp; NO JAILBREAK)<br>",
+                "active": false
               },
               {
                 "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=pAfj3uWgbUw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-00-38.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "caption": "How To Get Bandicam FULL VERSION For Free<br>",
+                "active": false
               },
               {
                 "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=tQNclZJnrFQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-00-01.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "caption": "How To Get Kodi On Your iOS (NO JAILBREAK)<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ycDbD4DDqWk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-22-58-27.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "How To Get Any GTA Game For Free On Your iOS Device (NO COMPUTER &amp; NO JAILBREAK)<br>",
+                "active": false
               },
               {
                 "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=86NKZPS8-tY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-02-54.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "caption": "How To Get vShare On Any iOS Device (NO JAILBREAK &amp; NO PC)<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=orm-Seef6n0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-04-06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get vShare On Any iOS Device (NO JAILBREAK &amp; NO PC)<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ff4z6CG2Vpk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-04-58.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get Round Folders In iOS 8,9, And 10 Beta (NO JAILBREAK)<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=m2YOu0M2oOQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-10-43.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Nest Folders In iOS 8,9, And 10 (NO JAILBREAK) <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Bb2hl-qNcxE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-12-41.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get YouTube Red For Free [ANDROID ONLY] <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=B1JOCVVrJVs",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-14-36.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get Netflix For Free <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=zbwRV7M1I-k&t=23s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-16-19.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Download Any Video To Your iOS Device [NO JAILBREAK &amp; NO COMPUTER] <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YSbrZ_8JTvI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-17-08.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Hack Feature Points (FREE GIFT CARDS) <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=xwoD1e_TSmk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-19-44.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Root Your Android [NO PC] <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=hx65LIeQ0vI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-20-29.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Get Movie Box [NO JAILBREAK] <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=z60XgXaXTV4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-21-08.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Take A Screenshot On A Mac [TWO WAYS] [NO SOFTWARE] <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ykX9ZrXnTvQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-22-16.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Take A Screenshot Directly From Your PC Method 1 <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=CWXZx6ev0PU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-24-21.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Have In App Purchases for FREE Android (NO ROOT) <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=2XxZF1FOcy0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-23-07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Take Screenshot Directly From Your PC Method 2 <br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=kzvrDAphmmw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-13-23-25-09.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "How To Mange Your YouTube Subscriptions (4K HD) <br>",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -569,11 +623,11 @@
             "showSubTitle": true
           },
           "title": "SUBSCRIBE",
-          "subtitle": "Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site",
+          "subtitle": "Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site And&nbsp;To Receive New Offers",
           "form": {
             "action": "muhammedamjad62@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks For Subscribing!"
             },
             "fields": {
               "email": {
