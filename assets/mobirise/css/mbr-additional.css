@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
 
@@ -873,9 +874,14 @@ h6,
 #header3-17 H3 {
   color: #ffffff;
 }
+
 #header2-1d .mbr-section-title {
-  font-size: 46px;
+  font-size: 48px;
   text-align: right;
+  font-family: 'Titillium Web', sans-serif;
+}
+#header2-1d .mbr-section-title SPAN {
+  font-size: 48px;
 }
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
@@ -932,7 +938,7 @@ h6,
 }
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #menu-14.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
