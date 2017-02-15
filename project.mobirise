@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "CONTACT US",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -160,7 +160,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Name"
               },
               "email": {
                 "title": "Email",
@@ -174,7 +174,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
