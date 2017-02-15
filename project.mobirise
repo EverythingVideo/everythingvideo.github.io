@@ -136,8 +136,8 @@
           "_anchor": "form1-b",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sid-meiers-civilization-beyond-earth-background-blue-space-2000x1250.jpg",
