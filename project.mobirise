@@ -772,7 +772,7 @@
             "showMeta": true
           },
           "title": "<a href=\"CONTACT US\" class=\"text-white\">HAVE A QUESTION CONTACT US</a>",
-          "meta": "<b><a href=\"index.html#header2-0\">Click Here To Go Back</a>&nbsp;<a href=\"index.html#header2-0\">Up</a></b><br>"
+          "meta": "<b><a href=\"index.html#header2-0\">Click Here To Go Back Up</a></b>"
         }
       ]
     },
