@@ -560,6 +560,9 @@ h6,
 #form2-g .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#footer1-a P {
+  color: #c1c1c1;
+}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -779,4 +782,87 @@ h6,
 #menu-n .close-icon::before,
 #menu-n .close-icon::after {
   background-color: #ffffff;
+}
+#menu-14 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-14 .navbar-caption {
+  color: #ffffff;
+}
+#menu-14 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-14 .link,
+#menu-14 .dropdown-item {
+  color: #ffffff;
+}
+#menu-14 .link {
+  font-size: 0.75rem;
+}
+#menu-14 .dropdown-item,
+#menu-14 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-14 .link:hover,
+#menu-14 .dropdown-item:hover,
+#menu-14 .link:focus,
+#menu-14 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-14 .nav-dropdown-sm .link:focus,
+#menu-14 .nav-dropdown-sm .link:hover,
+#menu-14 .nav-dropdown-sm .dropdown-item:focus,
+#menu-14 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-14 .navbar,
+#menu-14 .nav-dropdown-sm,
+#menu-14 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-14 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-14 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-14 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-14 .bg-color.transparent.opened .link:hover,
+#menu-14 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-14.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-14 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-14 .close-icon::before,
+#menu-14 .close-icon::after {
+  background-color: #ffffff;
+}
+#header1-15 .mbr-section-title {
+  font-size: 60px;
+}
+#header1-15 .mbr-section-lead B {
+  font-size: 30px;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 SMALL {
+  color: #ffffff;
+}
+#header3-17 H3 {
+  color: #ffffff;
 }
