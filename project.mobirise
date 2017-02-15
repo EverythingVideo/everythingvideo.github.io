@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Grammarly Free Trials",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -1099,10 +1099,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1243,14 +1243,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-11",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#c1c1c1",
-            "showText": false
-          },
+          "_name": "image1",
+          "_anchor": "image1-19",
           "media": {
             "image": {
               "src": "@THEME_PATH@/components/_images/image1.jpg",
@@ -1263,7 +1257,10 @@
               "active": true
             }
           },
-          "text": ""
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
