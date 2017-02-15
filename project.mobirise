@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Grammarly Free Trials",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -1424,8 +1424,8 @@
           "_name": "header3",
           "_anchor": "header3-17",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#3e4760",
             "showMeta": true
           },
