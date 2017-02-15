@@ -560,8 +560,12 @@ h6,
 #form2-g .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#footer1-a P {
-  color: #c1c1c1;
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1a A {
+  font-size: 18px;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

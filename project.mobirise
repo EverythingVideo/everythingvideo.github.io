@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Grammarly Free Trials",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -752,29 +752,27 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "A": {
+              "font-size": "18px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#c1c1c1"
-            }
-          },
-          "_anchor": "footer1-a",
+          "_name": "header3",
+          "_anchor": "header3-1a",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#363434",
+            "showMeta": true
           },
-          "text": "<b><a href=\"index.html#header2-0\">Click Here To Go Back Up</a></b><br>EVERYTHING VIDEO"
+          "title": "<a href=\"CONTACT US\" class=\"text-white\">HAVE A QUESTION CONTACT US</a>",
+          "meta": "<b><a href=\"index.html#header2-0\">Click Here To Go Back</a>&nbsp;<a href=\"index.html#header2-0\">Up</a></b><br>"
         }
       ]
     },
