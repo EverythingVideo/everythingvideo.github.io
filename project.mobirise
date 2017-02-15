@@ -1557,6 +1557,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1f",
           "_params": {
             "parallax": true,
@@ -1579,18 +1590,7 @@
           },
           "title": "NCH Keygen",
           "text": "Instructions: Download Any NCH Software And Then Open The Nch Keygen And Then Choose The Product You Want To Get For Free And Then It Should Automatically Give You The Id Key (Registration Key). Now Just Enter The Registration Key In The NCH Software You Want To Get For Free<br><span style=\"font-style: normal;\"><b>YOU MUST DISABLE ALL ANTI-VIRUS</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://s000.tinyupload.com/download.php?file_id=14682487704410541910&amp;t=1468248770441054191073664\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NCH Keygen</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#b8312f"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://s000.tinyupload.com/download.php?file_id=14682487704410541910&amp;t=1468248770441054191073664\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NCH Keygen</a> "
         }
       ]
     },
