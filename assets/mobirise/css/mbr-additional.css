@@ -714,11 +714,14 @@ h6,
   color: #a0a0a0;
 }
 #msg-box4-z SPAN {
-  font-size: 14px;
+  font-size: 8px;
   text-align: center;
 }
 #msg-box4-z .btn {
   font-size: 13px;
+}
+#msg-box4-z H3 {
+  font-size: 20px;
 }
 #menu-n .hide-buttons .nav-btn {
   display: none !important;

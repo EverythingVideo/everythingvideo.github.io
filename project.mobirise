@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Grammarly Free Trials",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -1084,18 +1084,21 @@
           "_name": "msg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "14px",
+              "font-size": "8px",
               "text-align": "center"
             },
             ".btn": {
               "font-size": "13px"
+            },
+            "H3": {
+              "font-size": "20px"
             }
           },
           "_anchor": "msg-box4-z",
           "_params": {
-            "imageSize": "40",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "42",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
@@ -1135,7 +1138,7 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">YOU MUST CLICK ON THE BUTTON BELOW \"Grammarly Free Trials\", IT SHOULD TAKE YOU TO THE GRAMMARLY WEBSITE, NOW CLICK ON ADD TO CHROME AND THEN SIGN UP, AFTER YOU ADD IT TO CHROME AND SIGN UP IT SHOULD AUTOMATICALLY GIVE YOU A TRIAL FOR 7 DAYS. AFTER 7 DAYS REPEAT THIS (REPEAT THIS EVERY WEEK). THIS ONLY WORKS ON CHROME AND SAFARI. THIS DOES NOT WORK IN INCONGNITO MODE.</span>",
+          "title": "<span style=\"color: inherit; font-size: 20px; letter-spacing: -1px; line-height: 1.1; text-align: left;\"><br></span><br><span style=\"color: inherit; font-size: 20px; letter-spacing: -1px; line-height: 1.1; text-align: left;\"><br></span><br><span style=\"color: inherit; font-size: 20px; letter-spacing: -1px; line-height: 1.1; text-align: left;\">TO GET GRAMMARLY FREE TRIALS YOU MUST CLICK THE BUTTON BELOW \"Grammarly Free Trials\", IT SHOULD TAKE YOU TO THE GRAMMARLY WEBSITE, NOW CLICK ON ADD TO CHROME AND THEN SIGN UP, AFTER YOU ADD IT TO CHROME AND SIGN UP IT SHOULD AUTOMATICALLY GIVE YOU A TRIAL FOR 7 DAYS. AFTER 7 DAYS REPEAT THIS (REPEAT THIS EVERY WEEK). THIS ONLY WORKS ON CHROME AND SAFARI. THIS DOES NOT WORK IN INCONGNITO MODE.</span><br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://gram.ly/wjGv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Grammarly Free Trials</a>"
         },
