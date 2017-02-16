@@ -608,33 +608,6 @@
             "bgColor": "#353535"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1n",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/people/Muhammed-Amjad/100010192627015\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/101858661915690856140\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/zainnow1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -1984,6 +1957,21 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "10px",
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "header1-1m",
           "_params": {
             "parallax": true,
@@ -2006,22 +1994,7 @@
           },
           "title": "LIST OF THE BENEFITS OF ROOTING<br>",
           "text": "&nbsp;-Speed Up      &nbsp; &nbsp;- Remove Ads<br>&nbsp; &nbsp; -Save Battery    &nbsp; &nbsp; &nbsp;- Better Backup<br>&nbsp; &nbsp; &nbsp;-Uninstall Bloatware &nbsp; - Customization<br><b style=\"line-height: 1.5;\"><br></b><br><b style=\"line-height: 1.5;\">YOU COULD ALSO GET IN APP PURCHASES FOR FREE</b><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kingroot.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOURCE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px",
-              "text-align": "center"
-            },
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "20px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "10px",
-              "color": "#2b0680"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kingroot.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOURCE</a>"
         }
       ]
     }
