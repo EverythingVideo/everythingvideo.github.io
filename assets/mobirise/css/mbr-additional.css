@@ -498,6 +498,10 @@ h6,
 #form2-g .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#social-buttons4-1n .mbr-section-title,
+#social-buttons4-1n .btn-social {
+  color: #fff;
+}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
