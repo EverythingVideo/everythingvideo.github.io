@@ -17,11 +17,11 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 53,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -567,8 +567,8 @@
           "_name": "form2",
           "_anchor": "form2-g",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -597,27 +597,17 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "A": {
-              "font-size": "18px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1a",
+          "_name": "buttons1",
+          "_anchor": "buttons1-1g",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#363434",
-            "showMeta": true
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "<a href=\"CONTACT US\" class=\"text-white\">HAVE A QUESTION CONTACT US</a>",
-          "meta": ""
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
         }
       ]
     },
@@ -720,7 +710,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -737,12 +727,12 @@
           "_name": "form2",
           "_anchor": "form2-m",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#4a4949",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -867,7 +857,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1083,7 +1073,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1159,7 +1149,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1212,7 +1202,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1224,6 +1214,17 @@
               "font-size": "60px"
             },
             ".mbr-section-lead B": {
+              "font-size": "32px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#b8312f"
+            },
+            ".mbr-section-lead": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff",
               "font-size": "30px"
             }
           },
@@ -1231,7 +1232,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sid-meiers-civilization-beyond-earth-background-blue-space-2000x1250.jpg",
             "bgColor": "#7e9b9f",
             "bgColorRadio": false,
@@ -1248,34 +1249,8 @@
             "showButtons": true
           },
           "title": "",
-          "text": "<b>ADOBE UNIVERSAL PATCHER</b><br>DOWNLOAD THE ADOBE PRODUCT TRIAL AND THEN OPEN THE PATCHER AND THEN CLICK ON THE PATCH BUTTON<br>",
+          "text": "<span style=\"font-style: normal;\">ADOBE UNIVERSAL PATCHER</span><br>DOWNLOAD THE ADOBE PRODUCT TRIAL AND THEN OPEN THE PATCHER AND THEN CLICK ON THE PATCH BUTTON<br><b style=\"font-style: normal;\">YOU MUST DISABLE ALL ANTI-VIRUS</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://s000.tinyupload.com/download.php?file_id=76992432303466564177&amp;t=7699243230346656417752933\" data-toolbar=\"-mbrBtnMove\">Adobe Universal Patcher (PC ONLY)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=NQCJRCJ2&amp;mv=other&amp;sdid=Y2KRH14K\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Adobe Products</a>  "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-17",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#3e4760",
-            "showMeta": true
-          },
-          "title": "YOU MUST DISABLE ALL ANTI-VIRUS",
-          "meta": "Everything Video"
         }
       ]
     },
@@ -1444,7 +1419,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1550,7 +1525,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1688,7 +1663,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp;Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1698,9 +1673,6 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "form1-b",
@@ -1724,12 +1696,12 @@
           "form": {
             "action": "muhammedamjad62@gmail.com",
             "alerts": {
-              "success": "Thanks For Contacting Us!"
+              "success": "Thanks For Contacting Us"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Name"
               },
               "email": {

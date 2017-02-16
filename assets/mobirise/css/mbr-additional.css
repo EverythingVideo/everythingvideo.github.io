@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
@@ -415,6 +416,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -493,13 +497,6 @@ h6,
 }
 #form2-g .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#header3-1a .mbr-section-title,
-#header3-1a .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1a A {
-  font-size: 18px;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -724,6 +721,7 @@ h6,
 #menu-n .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -779,7 +777,7 @@ h6,
 }
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #menu-14.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -795,17 +793,17 @@ h6,
   font-size: 60px;
 }
 #header1-15 .mbr-section-lead B {
+  font-size: 32px;
+  font-family: 'Indie Flower', cursive;
+  color: #b8312f;
+}
+#header1-15 .mbr-section-lead {
+  font-size: 24px;
+  color: #ffffff;
+}
+#header1-15 .mbr-section-lead SPAN {
+  color: #ffffff;
   font-size: 30px;
-}
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17 SMALL {
-  color: #ffffff;
-}
-#header3-17 H3 {
-  color: #ffffff;
 }
 
 #header2-1d .mbr-section-title {
@@ -1028,7 +1026,4 @@ h6,
 }
 #form1-b .form-control-label {
   color: #232323;
-}
-#form1-b .mbr-section-title {
-  color: #ffffff;
 }
