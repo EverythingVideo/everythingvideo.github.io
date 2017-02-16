@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact Us",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -605,9 +605,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#353535"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
         }
       ]
     },
