@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -44,18 +44,26 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "36px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "13px"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "msg-box5-1q",
           "_params": {
-            "imageSize": "60",
+            "imageSize": "70",
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
@@ -94,7 +102,7 @@
             }
           },
           "title": "Everything Video",
-          "text": "WATCH OUR LATEST YOUTUBE VIDEOS HERE<br><b><a href=\"index.html#form2-g\" class=\"text-white\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted And To Receive New Things We Add To Our Site And To Receive New Offers</a></b><br>",
+          "text": "<b>WATCH OUR LATEST YOUTUBE VIDEOS HERE</b><br><b><a href=\"index.html#form2-g\" class=\"text-white\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted And To Receive New Things We Add To Our Site And To Receive New Offers</a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO</a>"
         },
         {

@@ -421,12 +421,20 @@ h6,
 }
 #msg-box5-1q H3 {
   color: #ffffff;
+  text-align: left;
+  font-size: 36px;
 }
 #msg-box5-1q P {
   color: #000000;
+  text-align: left;
+  font-size: 13px;
 }
 #msg-box5-1q B {
   color: #ffffff;
+  font-size: 14px;
+}
+#msg-box5-1q .btn {
+  font-size: 12px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
