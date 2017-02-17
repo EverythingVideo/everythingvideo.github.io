@@ -419,6 +419,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box5-1q H3 {
+  color: #ffffff;
+}
+#msg-box5-1q P {
+  color: #000000;
+}
+#msg-box5-1q B {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -485,9 +494,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header2-0 .mbr-section-text {
-  color: #ffffff;
 }
 #gallery1-j .mbr-gallery-item > div > span {
   text-align: center;

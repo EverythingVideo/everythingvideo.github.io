@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -37,6 +37,66 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-1q",
+          "_params": {
+            "imageSize": "60",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=YQSzqxnBtNE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Everything Video",
+          "text": "WATCH OUR LATEST YOUTUBE VIDEOS HERE<br><b><a href=\"index.html#form2-g\" class=\"text-white\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted And To Receive New Things We Add To Our Site And To Receive New Offers</a></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -130,60 +190,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Free Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\"><p>Adobe Universal Patcher<br></p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><p>MORE<br></p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Whats Root\">What's Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Why Root\">Why Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header2-0",
-          "_params": {
-            "imageSize": "64",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=YQSzqxnBtNE",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Everything Video",
-          "text": "<p><a href=\"index.html#gallery1-j\">WATCH OUR LATEST YOUTUBE VIDEOS HERE</a><br><a href=\"HOME#form2-g\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted On YouTube And To Receive New Things We Add To Our Site</a><a href=\"HOME#form2-g\"></a><b><a href=\"HOME#form2-g\"></a></b><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO&nbsp;</a> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Trials<br></p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>MORE<br></p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Whats Root\">What's Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Why Root\">Why Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
