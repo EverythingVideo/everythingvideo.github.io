@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "How To Root",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 69,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -102,7 +102,7 @@
             }
           },
           "title": "Everything Video",
-          "text": "<b>WATCH OUR LATEST YOUTUBE VIDEOS HERE</b><br><b><a href=\"index.html#form2-g\" class=\"text-white\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted And To Receive New Things We Add To Our Site And To Receive New Offers</a></b><br>",
+          "text": "<b><a href=\"index.html#gallery1-j\">WATCH OUR LATEST YOUTUBE VIDEOS HERE</a></b><br><b><a href=\"index.html#form2-g\" class=\"text-white\">Click Here To Subscribe to Us To Receive Our Latest Videos Posted And To Receive New Things We Add To Our Site And To Receive New Offers</a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE TO EVERYTHING VIDEO</a>"
         },
         {
@@ -198,7 +198,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Trials<br></p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>MORE<br></p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Whats Root\">What's Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Why Root\">Why Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Conatct Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Trials<br></p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>MORE<br></p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Whats Root\">What's Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Why Root\">Why Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"How To Root\">How To Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Conatct Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2010,6 +2010,171 @@
           "title": "LIST OF THE BENEFITS OF ROOTING<br>",
           "text": "&nbsp;-Speed Up      &nbsp; &nbsp;- Remove Ads<br>&nbsp; &nbsp; -Save Battery    &nbsp; &nbsp; &nbsp;- Better Backup<br>&nbsp; &nbsp; &nbsp;-Uninstall Bloatware &nbsp; - Customization<br><b style=\"line-height: 1.5;\"><br></b><br><b style=\"line-height: 1.5;\">YOU COULD ALSO GET IN APP PURCHASES FOR FREE</b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kingroot.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOURCE</a>"
+        }
+      ]
+    },
+    "How To Root": {
+      "settings": {
+        "title": "How To Root",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1t",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/globe-1348777-960-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://everythingvideo.github.io/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\"><p>&nbsp; &nbsp; Viki Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\"><p>Dramafever Trials<br></p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\"><p>Grammarly Trials<br></p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Adobe Universal Patcher\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>MORE<br></p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NCH Keygen\">NCH Keygen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Whats Root\">What's Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Why Root\">Why Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"How To Root\">How To Root</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Donate\">Donate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\">Conatct Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1u",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=xwoD1e_TSmk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "How To Root",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">ROOTING IS SIMPLE AND FREE. THERE ARE 2 WAYS TO ROOT YOUR DEVICE, THE FIRST WAY IS WITH A LAPTOP OR A COMPUTER, THE SECOND WAY IS WITHOUT A LAPTOP OR A COMPUTER. ROOTING GIVES YOU A LOT OF PRIVILEGES LIKE GETTING IN APP PURCHASES FOR FREE AND MORE.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">LEARN HOW TO ROOT YOUR ANDROID WITHOUT A LAPTOP OR A COMPUTER BY CLICKING ON THE VIDEO ON THE LEFT (← ) OR ABOVE (↑ )</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#d8e6e7"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ROOT YOUR DEVICE BY GOING TO THE FOLLOWING WEBSITE <a href=\"https://kingroot.net\" target=\"_blank\">https://kingroot.net </a>ONCE YOU ARE ON THE WEBSITE CLICK ON DOWNLOAD. AFTER THE DOWNLOAD IS COMPLETE OPEN IT CLICK ON INSTALL AND THEN IT SHOULD SAY INSTALL BLOCKED , THEN CLICK ON SETTINGS, NEXT JUST TURN ON UNKNOWN SOURCES AND CLICK ON OK, THEN A MESSAGE SHOULD POP UP THAT SAYS INSTALLATION BLOCKED, FROM THERE CLICK ON MORE DETAILS AND THEN CLICK ON INSTALL ANYWAY (UNSAFE). THEN OPEN IT AND CLICK ON TRY IT AND THEN CLICK ON GET NOW. NOW IT SHOULD START ROOTING YOUR DEVICE. (YOUR DEVICE MAY REBOOT)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">SOURCE:</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;<a href=\"https://kingroot.net\" target=\"_blank\">https://kingroot.net</a></span></p>"
         }
       ]
     }
