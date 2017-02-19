@@ -1326,8 +1326,11 @@ h6,
 #menu-1x .close-icon::after {
   background-color: #ffffff;
 }
-#video2-2e DIV {
-  font-size: 14px;
+#header6-2g .mbr-section-title {
+  color: #28262b;
+}
+#header6-2g .mbr-section-text {
+  color: #565656;
 }
 #menu-22 .hide-buttons .nav-btn {
   display: none !important;
