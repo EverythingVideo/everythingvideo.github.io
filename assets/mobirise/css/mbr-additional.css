@@ -3,7 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -417,6 +416,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #msg-box5-1q H3 {
   color: #ffffff;
   text-align: left;
@@ -509,9 +511,6 @@ h6,
 }
 #form2-g .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#footer1-2f P {
-  color: #ffffff;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -1260,9 +1259,6 @@ h6,
 #menu-1t .close-icon::after {
   background-color: #ffffff;
 }
-
-
-
 #menu-1x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1330,19 +1326,8 @@ h6,
 #menu-1x .close-icon::after {
   background-color: #ffffff;
 }
-#header2-21 .mbr-section-text SPAN {
-  font-size: 18px;
-  font-family: 'Open Sans Condensed', sans-serif;
-  text-align: left;
-  color: #ffffff;
-}
-#header2-21 .mbr-section-title {
-  font-size: 18px;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#header2-21 .mbr-section-title SPAN {
-  font-size: 15px;
-  font-family: 'Open Sans Condensed', sans-serif;
+#video2-2e DIV {
+  font-size: 14px;
 }
 #menu-22 .hide-buttons .nav-btn {
   display: none !important;
