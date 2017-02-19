@@ -622,7 +622,7 @@
             "paddingBottom": "0",
             "bgColor": "#353535"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html#msg-box5-1q\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">HAVE A QUESTION CONTACT US</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO G0 BACK UP</a>"
         }
       ]
     },
