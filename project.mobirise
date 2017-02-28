@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Spotify Free Trials",
+    "currentPage": "View Saved Wifi Passwords (PC)",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -2266,7 +2266,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0",
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": false,
