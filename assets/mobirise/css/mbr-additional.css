@@ -1266,12 +1266,6 @@ h6,
 #menu-2p .close-icon::after {
   background-color: #ffffff;
 }
-#header6-2g .mbr-section-title {
-  color: #28262b;
-}
-#header6-2g .mbr-section-text {
-  color: #565656;
-}
 #menu-2p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1338,6 +1332,12 @@ h6,
 #menu-2p .close-icon::before,
 #menu-2p .close-icon::after {
   background-color: #ffffff;
+}
+#header6-2v .mbr-section-title {
+  color: #28262b;
+}
+#header6-2v .mbr-section-text {
+  color: #565656;
 }
 #form2-27 .mbr-section-title {
   color: #fff;

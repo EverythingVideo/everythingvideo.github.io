@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 103,
+    "uniqCompNum": 104,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -2240,67 +2240,6 @@
       },
       "components": [
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#565656"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-2g",
-          "_params": {
-            "imageSize": "59",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#ccc",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capture-1400x792.jpg",
-              "active": true,
-              "link": "https://youtu.be/ys0vsEU4-9M",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://youtu.be/ys0vsEU4-9M",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "TO VIEW SAVED WIFI PASSWORDS ON WINDOWS 8 AND 10 YOU HAVE TO OPEN UP CMD (COMMAND PROMPT) AND THEN ENTER THE FOLLOWING TEXT netsh wlan show profiles AND THEN CLICK ON ENTER AFTER YOU HAVE DONE THAT IT SHOULD SHOW YOU ALL YOUR SAVED WIFI PASSWORD NAMES THEN ENTER THE FOLLOWING TEXT netsh wlan show profile name=wifiname key=clear | findstr Key. IN THE FOLLOWING TEXT WHERE IT SAYS WIFINAME JUST ENTER THE WIFI YOU WOULD LIKE TO GET THE PASSWORD OF.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2397,6 +2336,67 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\">Viki Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\">Dramafever Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\">Grammarly Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spotify Free Trials\">Spotify Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NCH Keygen\">NCH Keygen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Whats Root\">What's Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Why Root\">Why Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How To Root\">How To Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"View Saved Wifi Passwords (PC)\">View Saved Wifi Passwords (PC)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Study Free Trials\">Study Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifetime Movie Club Free Trials\">Lifetime Movie Club Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Donate\">Donate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Us\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2v",
+          "_params": {
+            "imageSize": "59",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/21-2000x1250-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/capture-1400x792.jpg",
+              "active": true,
+              "link": "https://youtu.be/ys0vsEU4-9M",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://youtu.be/ys0vsEU4-9M",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "TO VIEW SAVED WIFI PASSWORDS ON WINDOWS 8 AND 10 YOU HAVE TO OPEN UP CMD (COMMAND PROMPT) AND THEN ENTER THE FOLLOWING TEXT netsh wlan show profiles AND THEN CLICK ON ENTER AFTER YOU HAVE DONE THAT IT SHOULD SHOW YOU ALL YOUR SAVED WIFI PASSWORD NAMES THEN ENTER THE FOLLOWING TEXT netsh wlan show profile name=wifiname key=clear | findstr Key. IN THE FOLLOWING TEXT WHERE IT SAYS WIFINAME JUST ENTER THE WIFI YOU WOULD LIKE TO GET THE PASSWORD OF.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
