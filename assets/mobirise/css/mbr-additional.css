@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 
 
 
@@ -1266,6 +1267,7 @@ h6,
 #menu-2p .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-2p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1338,6 +1340,8 @@ h6,
 }
 #header6-2v .mbr-section-text {
   color: #565656;
+  font-size: 10px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #form2-27 .mbr-section-title {
   color: #fff;
