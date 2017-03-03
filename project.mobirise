@@ -2376,7 +2376,6 @@
             "image": {
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/capture-1400x792.jpg",
-              "active": true,
               "link": "https://youtu.be/ys0vsEU4-9M",
               "alt": "",
               "title": "",
@@ -2384,9 +2383,10 @@
             },
             "video": {
               "src": "https://youtu.be/ys0vsEU4-9M",
-              "aspectratio": "16:9",
+              "aspectratio": "4:3",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
