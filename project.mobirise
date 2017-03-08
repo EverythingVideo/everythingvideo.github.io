@@ -618,7 +618,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": false,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1178,7 +1178,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sid-meiers-civilization-beyond-earth-background-blue-space-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sid_meiers_civilization_beyond_earth_background_blue_space-2000x1250.jpg",
             "bgColor": "#7e9b9f",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2353,7 +2353,7 @@
             "B": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "15px",
+              "font-size": "17px",
               "color": "#000000"
             }
           },
@@ -2365,7 +2365,7 @@
           "_params": {
             "imageSize": "54",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21-2000x1250.jpg",
