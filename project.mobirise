@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "View Saved Wifi Passwords (PC)",
+    "currentPage": "index.html",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -618,7 +618,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": false,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
