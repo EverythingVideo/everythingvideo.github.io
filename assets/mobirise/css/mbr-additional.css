@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
@@ -518,6 +519,7 @@ h6,
 #menu-n .close-icon::after {
   background-color: #ffffff;
 }
+
 #form2-m .mbr-section-title {
   color: #fff;
 }
@@ -590,6 +592,20 @@ h6,
 #menu-2p .close-icon::before,
 #menu-2p .close-icon::after {
   background-color: #ffffff;
+}
+#msg-box2-3b .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-3b .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-3a .mbr-section-title {
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box2-3a .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #form2-p .mbr-section-title {
   color: #fff;

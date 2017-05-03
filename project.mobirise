@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Viki Free Trials",
     "name": "Everything Video",
     "theme": {
       "name": "mobirise3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 116,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 120,
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
   },
@@ -668,11 +669,11 @@
           "_anchor": "form2-m",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4a4949",
+            "bgColor": "#2b2b2b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -680,12 +681,12 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Viki Free Trials",
-          "subtitle": "Get One Viki Accunt For Free Here&nbsp;Every Week By Entering Your Email Below<br>",
+          "title": "Viki Account Trials",
+          "subtitle": "3 MONTHS OF VIKI ACCOUNTS (GET ONE ACCOUNT EVERY WEEK)<br>",
           "form": {
             "action": "muhammedamjad62@gmail.com",
             "alerts": {
-              "success": "Thanks For Asking For Free Viki Trials!"
+              "success": "Thanks For Asking For A Viki Trials!\nNOW CLICK THE BUTTON (PAY NOW) TO RECIEVE 3 MONTHS OF VIKI ACCOUNTS (GET ONE ACCOUNT EVERY WEEK)"
             },
             "fields": {
               "email": {
@@ -793,6 +794,85 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://everythingvideo.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVERYTHING VIDEO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Viki Free Trials\">Viki Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Dramafever Free Trials\">Dramafever Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Grammarly Free Trials\">Grammarly Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spotify Free Trials\">Spotify Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adobe Universal Patcher\">Adobe Universal Patcher</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NCH Keygen\">NCH Keygen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Whats Root\">What's Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Why Root\">Why Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How To Root\">How To Root</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"View Saved Wifi Passwords (PC)\">View Saved Wifi Passwords (PC)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Study Free Trials\">Study Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifetime Movie Club Free Trials\">Lifetime Movie Club Free Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Donate\">Donate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Us\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PAY NOW</a>",
+          "title": "Thanks For Asking For Viki Trials!<div>NOW CLICK THE BUTTON (PAY NOW) TO RECIEVE 3 MONTHS OF VIKI ACCOUNTS (GET ONE ACCOUNT EVERY WEEK)</div>",
+          "text": "Cut down the development time with drag-and-drop website builder."
         }
       ]
     },
